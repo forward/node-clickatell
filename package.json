@@ -1,0 +1,22 @@
+{
+  "name": "clickatell",
+  "version": "0.0.1",
+  "description": "Client for the Clickatell SMS gateway.",
+  "maintainers": [{
+    "name": "Paul Ingles",
+    "email": "paul@oobaloo.co.uk",
+    "web": "http://oobaloo.co.uk/"
+  }],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://github.com/forward/node-clickatell/blob/master/LICENSE.txt"
+  }],
+  "repositories": [{
+    "type": "git",
+    "url": "http://github.com/pingles/node-clickatell"
+  }],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/clickatell"
+}
